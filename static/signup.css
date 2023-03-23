@@ -1,0 +1,18 @@
+textarea{
+    resize: none;
+}
+
+#form{
+    padding-top: 9%;
+    padding-right: 4%;
+    white-space: nowrap;
+}
+#submitButton{
+    text-align: left;
+    float:inline-end;
+   
+}
+
+#signin{
+    padding-left: 50%;
+}
